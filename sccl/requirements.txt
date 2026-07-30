@@ -1,0 +1,9 @@
+# Tested target: Python 3.10
+# Install the appropriate PyTorch build for your CPU/CUDA platform when needed.
+
+torch==2.1.2
+transformers==4.27.4
+tokenizers==0.13.3
+sentencepiece==0.2.0
+numpy==1.24.3
+pytorch-crf==0.7.2
